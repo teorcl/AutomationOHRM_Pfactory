@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/main/java/co/com/sofka/model/orangerecruitmentvacancies/OrangeRecruitmentVacanciesModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/main/java/co/com/sofka/page/common/CommonActionsOnPages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/main/java/co/com/sofka/page/orangerecruitmentvacancies/Login.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/main/java/co/com/sofka/page/orangerecruitmentvacancies/OrangeRecruitmentVacancies.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/test/java/co/com/sofka/runner/orangehrmpaygrades/PayGradesCucumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/test/java/co/com/sofka/runner/orangerecruitmentvacancies/OrangeRecruitmentVacanciesCucumberTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/test/java/co/com/sofka/stepdefinition/orangerecruitmentvacancies/OrangeRecruitmentVacanciesStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/test/java/co/com/sofka/stepdefinition/orangererecruitmentvacancies/OrangeRecruitmentVacanciesStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/test/java/co/com/sofka/stepdefinition/setup/WebUI.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/test/resources/features.webui.orangehrmpaygrades/payGrades.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/toolsqapom/src/test/resources/features/webui/orangerecruitmentvacancies/orangerecruitmentvacancies.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
